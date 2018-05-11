@@ -1,0 +1,20 @@
+{
+  "name": "tictactoe",
+  "version": "1.0.0",
+  "description": "A tictactoe game",
+  "main": "index.html",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "nodemon app.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/tcparker976/tictactoe.git"
+  },
+  "author": "Thomas Parker",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/tcparker976/tictactoe/issues"
+  },
+  "homepage": "https://github.com/tcparker976/tictactoe#readme"
+}
